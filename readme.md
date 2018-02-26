@@ -4,22 +4,30 @@
 - Anaís
 - Mariela
 - Johana
-- w
+- Lourdes
 
-## RETO : Mostrar proyectos del area de Innovación de forma agil a las diferentes Gerencias del BCP
+### Datos Importantes
+
+- El proyecto se dividio en dos grandes partes:
+* Administrador del proyecto, que es el centro de Innovación del banco de Credito.
+* Usuarios Internos, diferentes áreas del banco de crédito.
+
+- La creación del prototipo se realizo de forma grupal, la documentación de la información para la creación del Readme lo realice de forma individual.
+
+## RETO : Mostrar proyectos del area de Innovación de forma ágil a las diferentes Gerencias del BCP
 
 El área de Innovación del BCP, busca una forma ágil de mostrar sus proyectos a las diferentes áreas del banco, motivo por el cual nos ha encomendado esta tarea, con el fin de proponer ideas innovadoras, fáciles y confiables.
 
 ## Organización de Equipo
-Objetivos:
+* Nuestro objetivo:
 - Trabajo en Equipo
 - Aprendizaje conjunto
 - Roles iguales
 - Colaboración
 - Mejora continua
+- Lograr un prototipo ideal para satisfacción del usuario.
 
 Cronograma de Actividades:
-- Elaboración de Cronograma de actividades.
 - Crear cuestionario de entrevistas.
 - Proceso de entrevistas.
 - Ideación de propuesta.
@@ -28,7 +36,6 @@ Cronograma de Actividades:
 - Retrospectiva.
 
 Herramientas:
-- Grabadora de sonido
 - Fotos
 - Slack, WatsApp, Facebook, Search Google
 
@@ -36,14 +43,16 @@ Entregable:
 - DEMO-MARVEL
 
 ## Manos a la obra.
-Realizamos una serie de procedimientos partiendo desde los siguientes procesos como base:
+Partimos de la siguientes bases:
 
 ## Proceso de Diseño
 
 ![Imagenes](assets/images/proceso-ux.png) 
 
-### Objetivo general
-Analiza y diagnostica deficiencia de comunicación entre area de Innovación y departamentos de gerencia.
+## Fase 1: Descubrimiento e Investigación.
+
+### Objetivo
+Analizar la información obtenida del proceso de entrevistas.
 
 ## Lista de preguntas.
 
@@ -70,20 +79,11 @@ Analiza y diagnostica deficiencia de comunicación entre area de Innovación y d
 
 ## Presentacion final
 ![Imagenes](assets/images/presentacion_1.png)
-![Imagenes](assets/images/presentacion_2.png)
-![Imagenes](assets/images/presentacion_3.png)
-![Imagenes](assets/images/presentacion_4.png)
-![Imagenes](assets/images/presentacion_5.png)
-![Imagenes](assets/images/presentacion_6.png)
-![Imagenes](assets/images/presentacion_7.png)
-![Imagenes](assets/images/presentacion_8.png)
-![Imagenes](assets/images/presentacion_9.png)
+
 
 ### NICE TO HAVE
 ## Storyboard.
 
-![Imagenes](assets/images/storyboard_1.jpg)
-![Imagenes](assets/images/storyboard_2.jpg)
-![Imagenes](assets/images/storyboard_3.jpg)
+
 
 
