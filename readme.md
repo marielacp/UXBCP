@@ -9,12 +9,6 @@
 ## RETO : Mostrar proyectos del area de Innovación de forma agil a las diferentes Gerencias del BCP
 
 El área de Innovación del BCP, busca una forma ágil de mostrar sus proyectos a las diferentes áreas del banco, motivo por el cual nos ha encomendado esta tarea, con el fin de proponer ideas innovadoras, fáciles y confiables.
-Realizamos una serie de procedimientos partiendo desde los siguientes procesos:
-
-## Proceso de Diseño
-
-![Imagenes](assets/images/ux-guia.png) 
-
 
 ## Organización de Equipo
 Objetivos:
@@ -24,37 +18,39 @@ Objetivos:
 - Colaboración
 - Mejora continua
 
-Actividades:
-- Lluvia de ideas para abordar problema de reto
-- Identificación de Ejes temáticos del problema utilizando diagrama de afinidad.
-- Definición de Plan de Investigación "Fase de Descubrimiento"
-- Elaboración de Preguntas para Entrevista y Encuesta
-- Elaboración de Cronograma de actividades
-- Feedback
-- Retrospectiva
+Cronograma de Actividades:
+- Elaboración de Cronograma de actividades.
+- Crear cuestionario de entrevistas.
+- Proceso de entrevistas.
+- Ideación de propuesta.
+- Testing.
+- Feedback.
+- Retrospectiva.
 
 Herramientas:
 - Grabadora de sonido
 - Fotos
 - Slack, WatsApp, Facebook, Search Google
 
-
 Entregable:
 - DEMO-MARVEL
 
-# Proceso UX Research
+## Manos a la obra.
+Realizamos una serie de procedimientos partiendo desde los siguientes procesos como base:
+
+## Proceso de Diseño
+
+![Imagenes](assets/images/proceso-ux.png) 
 
 ### Objetivo general
 Analiza y diagnostica deficiencia de comunicación entre area de Innovación y departamentos de gerencia.
 
-### Objetivo (Jueves 22/02/18)
-*Realizar guia de entrevistas.*
-*Analisis de Documentación.*
-*Entrevista de usuarios.*
-*Analisis de Documentación.*
+## Lista de preguntas.
 
+![Imagenes](assets/images/cuestionarioPreguntasRespuestas.png)
 
 ## Diagrama de afinidad.
+
 ### PASO 1:
 - Lluvia de ideas deacuerdo a lo obtenido en las entrevistas.
 
