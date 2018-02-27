@@ -25,19 +25,19 @@ El área de Innovación del BCP, busca una forma ágil de mostrar sus proyectos 
     - Lograr un prototipo ideal para satisfacción del usuario.
 
 Cronograma de Actividades:
-- Crear cuestionario de entrevistas.
-- Proceso de entrevistas.
-- Ideación de propuesta.
-- Testing.
-- Feedback.
-- Retrospectiva.
+    - Crear cuestionario de entrevistas.
+    - Proceso de entrevistas.
+    - Ideación de propuesta.
+    - Testing.
+    - Feedback.
+    - Retrospectiva.
 
 Herramientas:
-- Fotos
-- Slack, WatsApp, Facebook, Search Google
+    - Fotos
+    - Slack, WatsApp, Facebook, Search Google
 
 Entregable:
-- DEMO-MARVEL
+    - DEMO-MARVEL
 
 ## Manos a la obra.
 Partimos de la siguientes bases:
@@ -76,6 +76,7 @@ Al analizar la información brindada por la Gerenta del área de Pymes y el Gere
 
 
 2. User persona.
+
 ![Imagenes](assets/images/userpersona.png)
 
 
@@ -93,7 +94,7 @@ Al analizar la información brindada por la Gerenta del área de Pymes y el Gere
 
 ## Fase 5: Prototipado.
 
-![Imagenes](assets/images/demoinnnovacion.png)
+![Imagenes](assets/images/demoinnovacion.png)
 
 ![Imagenes](assets/images/demousuarios.png)
 
