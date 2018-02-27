@@ -1,5 +1,8 @@
 # Brief Plataforma Ecosistemas
 
+![Imagenes](assets/images/portada.png)
+
+
 ### Datos Importantes
 
 - El proyecto se dividio en dos grandes partes:
