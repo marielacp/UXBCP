@@ -1,16 +1,10 @@
 # Brief Plataforma Ecosistemas
 
-### INTEGRANTES:
-- Anaís
-- Mariela
-- Johana
-- Lourdes
-
 ### Datos Importantes
 
 - El proyecto se dividio en dos grandes partes:
-* Administrador del proyecto, que es el centro de Innovación del banco de Credito.
-* Usuarios Internos, diferentes áreas del banco de crédito.
+    * Administrador del proyecto, que es el centro de Innovación del banco de Crèdito.
+    * Usuarios Internos, diferentes áreas del banco de crédito.
 
 - La creación del prototipo se realizo de forma grupal, la documentación de la información para la creación del Readme lo realice de forma individual.
 
@@ -20,12 +14,12 @@ El área de Innovación del BCP, busca una forma ágil de mostrar sus proyectos 
 
 ## Organización de Equipo
 * Nuestro objetivo:
-- Trabajo en Equipo
-- Aprendizaje conjunto
-- Roles iguales
-- Colaboración
-- Mejora continua
-- Lograr un prototipo ideal para satisfacción del usuario.
+    - Trabajo en Equipo
+    - Aprendizaje conjunto
+    - Roles iguales
+    - Colaboración
+    - Mejora continua
+    - Lograr un prototipo ideal para satisfacción del usuario.
 
 Cronograma de Actividades:
 - Crear cuestionario de entrevistas.
@@ -58,31 +52,53 @@ Analizar la información obtenida del proceso de entrevistas.
 
 ![Imagenes](assets/images/cuestionarioPreguntasRespuestas.png)
 
-## Diagrama de afinidad.
+## Fase 2: SINTESIS Y DEFINICIÓN
 
-### PASO 1:
-- Lluvia de ideas deacuerdo a lo obtenido en las entrevistas.
+1. Affinity Mapping
+-  Se realiza un findings en post it, o lluvia de ideas de acuerdo a lo obtenido en las entrevistas, dando lugar al diagrama de afinidad.
 
-![Imagenes](assets/images/problematica.jpg)
+![Imagenes](assets/images/problematica.jpg).
 
-### PASO 2:
 - Analizamos y elegimos las problemáticas que mas predominan.
 
 ![Imagenes](assets/images/afinitymap.jpg)
 
-## Siguiente paso, elaboramos nuestro user persona.
+Al analizar la información brindada por la Gerenta del área de Pymes y el Gerenta del àrea de ventas por internet, destaca alguna de las problemáticas.
+-	Falta de organización de la información.
+-	La ausencia de una plataforma que informe los proyectos del área de innovación.
+-	EL 95% del tiempo, lo pasan en reuniones y solo el 5% en responder correos.
+-	No puedo participar de forma activa en el cronograma de actividades del proyecto en el cual se están trabajando.
+-	No tengo acceso a los datos del área del proyecto.
+-	La información está dispersa.
+
+
+2. User persona.
 ![Imagenes](assets/images/userpersona.png)
 
-## Siguiente paso, Content Prototype.
+
+3. Content Prototype.
 
 ![Imagenes](assets/images/contentprototipe.png)
 
-## Presentacion final
-![Imagenes](assets/images/presentacion_1.png)
+## Fase 3: Ideaciòn.
 
+![Imagenes](assets/images/sketches.png)
 
-### NICE TO HAVE
-## Storyboard.
+## Fase 4: Testing.
+
+![Imagenes](assets/images/testeo.jpg)
+
+## Fase 5: Prototipado.
+
+![Imagenes](assets/images/demoinnnovacion.png)
+
+![Imagenes](assets/images/demousuarios.png)
+
+## Creativos
+- marielacernap@gmail.com
+- yoannahernandez.s@gmail.com
+- anaisolivareshilario@gmail.com
+- loayza.lourdes@gmail.com
 
 
 
